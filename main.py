@@ -2,7 +2,7 @@
 Title 
 Group:
 Makeeva Angelina
-Kareva Alenf
+Kareva Alena
 '''
 
 def triangle(x, y, a, b, angle, color):
