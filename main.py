@@ -7,6 +7,7 @@ Kareva Alenf
 
 def triangle(x, y, a, b, angle, color):
     '''
+    frdftgh
     :param x:
     :param y:
     :param a:
